@@ -1,0 +1,1 @@
+# laravel-purifier-cache-dir
